@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ch0knutiy_feechka\source\repos\мпиаа(graph)\мпиаа(graph)\main.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\ch0knutiy_feechka\source\repos\мпиаа(graph)\мпиаа(graph)\main.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ch0knutiy_feechka\source\repos\мпиаа(graph)\мпиаа(graph)\main.cpp(12): warning C4101: end: неиспользованная локальная переменная
+c:\users\ch0knutiy_feechka\source\repos\мпиаа(graph)\мпиаа(graph)\main.cpp(12): warning C4101: start: неиспользованная локальная переменная
+  МПиАА(graph).vcxproj -> C:\Users\Ch0knutiy_Feechka\source\repos\МПиАА(graph)\Debug\МПиАА(graph).exe
