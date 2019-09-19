@@ -8,8 +8,6 @@ using namespace std;
 int main()
 {
    int n, m, v1, v2, l;
-   srand(time(0));
-   clock_t start, end;
    ifstream fin;
    ofstream fout;
    fout.open("ou.txt", ios::out);
