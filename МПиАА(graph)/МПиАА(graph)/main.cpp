@@ -1,18 +1,18 @@
 #include <fstream>
 #include <vector>
 #include <stack>
-#include <ctime>
 
 using namespace std;
 
-int main()
+int main1()
 {
-   int n, m, v1, v2, l;
+   int n, m, v1, v2, l, s;
    ifstream fin;
    ofstream fout;
    fout.open("ou.txt", ios::out);
    fin.open("in.txt", ios::in);
-   fin >> n >> m;
+   fin >> n >> m >> s;
+   s--;
    vector< vector < int > > g(n);
    for (int i = 0; i < m; i++)
    {
@@ -20,21 +20,21 @@ int main()
       g[v1 - 1].push_back(v2 - 1);
       g[v2 - 1].push_back(v1 - 1);
    }
-   int s = 0;
-   vector<int> p(n, 0);
+   vector <bool> is_visited(n, false);
    stack  <int> q;
    q.push(s);
    while (!q.empty())
    {
       l = q.top();
       q.pop();
-      if (p[l] == 0)
+      if (is_visited[l] == false)
       {
-         p[l] = 1;
-         fout << l << ' ';
+         is_visited[l] = true;
+         fout << l+1 << " ";
          for (int i = 0; i < g[l].size(); i++)
-            if (p[g[l][i]] == 0)
+            if (is_visited[g[l][i]] == 0)
                q.push(g[l][i]);
       }
    }
+   return 0;
 }
