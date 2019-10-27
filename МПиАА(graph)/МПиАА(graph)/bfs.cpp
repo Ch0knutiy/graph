@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+int main2()
 {
    int n, m, v1, v2, l, s, find;
    bool flag = false;

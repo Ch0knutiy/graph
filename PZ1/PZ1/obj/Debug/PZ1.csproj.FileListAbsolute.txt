@@ -1,0 +1,7 @@
+C:\Users\Ch0knutiy_Feechka\source\repos\PZ1\PZ1\bin\Debug\PZ1.exe.config
+C:\Users\Ch0knutiy_Feechka\source\repos\PZ1\PZ1\bin\Debug\PZ1.exe
+C:\Users\Ch0knutiy_Feechka\source\repos\PZ1\PZ1\bin\Debug\PZ1.pdb
+C:\Users\Ch0knutiy_Feechka\source\repos\PZ1\PZ1\obj\Debug\PZ1.csprojAssemblyReference.cache
+C:\Users\Ch0knutiy_Feechka\source\repos\PZ1\PZ1\obj\Debug\PZ1.csproj.CoreCompileInputs.cache
+C:\Users\Ch0knutiy_Feechka\source\repos\PZ1\PZ1\obj\Debug\PZ1.exe
+C:\Users\Ch0knutiy_Feechka\source\repos\PZ1\PZ1\obj\Debug\PZ1.pdb

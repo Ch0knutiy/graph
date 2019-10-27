@@ -1,0 +1,13 @@
+﻿  bfs.cpp
+c:\users\ch0knutiy_feechka\documents\github\graph\мпиаа(graph)\мпиаа(graph)\bfs.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+c:\users\ch0knutiy_feechka\documents\github\graph\мпиаа(graph)\мпиаа(graph)\main.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+  prim.cpp
+c:\users\ch0knutiy_feechka\documents\github\graph\мпиаа(graph)\мпиаа(graph)\prim.cpp(25): warning C4101: l: неиспользованная локальная переменная
+  ways.cpp
+c:\users\ch0knutiy_feechka\documents\github\graph\мпиаа(graph)\мпиаа(graph)\ways.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ch0knutiy_feechka\documents\github\graph\мпиаа(graph)\мпиаа(graph)\ways.cpp(10): warning C4101: find: неиспользованная локальная переменная
+  Создание кода
+  All 311 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  МПиАА(graph).vcxproj -> C:\Users\Ch0knutiy_Feechka\source\repos\Графы1\Release\МПиАА(graph).exe
